@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="20241017_224927.jpg">
+</div>
+
 # BUMP - Auto Claim Bot
 
 Farm bot for [BUMP](https://t.me/MMproBump_bot?start=ref_5914982564)
@@ -37,4 +41,6 @@ nano data.txt
 | -------------------------------- | ------------------- |
 | `bot-proxy.py` | `bot.py` |
 
+## How to get query ID
 
+Watch the following video to get data [https://youtu.be/fdbdt-fEoVg](https://youtu.be/fdbdt-fEoVg)
